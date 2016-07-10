@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4BE94A87-9192-4438-21E8-D572E3C768A1}") = "rptest", "Assembly-CSharp.csproj", "{46C5423E-6A11-C5F7-49FE-742713EDBCCA}"
+EndProject
+Project("{4BE94A87-9192-4438-21E8-D572E3C768A1}") = "rptest", "Assembly-CSharp-Editor.csproj", "{F2B456C1-D270-C314-1955-D29BB22B0472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C5423E-6A11-C5F7-49FE-742713EDBCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C5423E-6A11-C5F7-49FE-742713EDBCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C5423E-6A11-C5F7-49FE-742713EDBCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C5423E-6A11-C5F7-49FE-742713EDBCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B456C1-D270-C314-1955-D29BB22B0472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B456C1-D270-C314-1955-D29BB22B0472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B456C1-D270-C314-1955-D29BB22B0472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B456C1-D270-C314-1955-D29BB22B0472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
